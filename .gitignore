@@ -1,0 +1,39 @@
+# --- Secrets: never commit ---------------------------------------------------
+# Release keystore and its passwords (see README, "Build" / "GitHub Actions").
+signing/
+*.jks
+*.keystore
+keystore.properties
+# Diagnostic logs copied off a device may contain account metadata.
+diag*.log
+
+# --- Gradle / Kotlin ---------------------------------------------------------
+.gradle/
+build/
+.kotlin/
+# Machine-specific SDK path.
+local.properties
+# Keep the wrapper; it is needed to build.
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- Android build outputs ---------------------------------------------------
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- IDEs --------------------------------------------------------------------
+.idea/
+*.iml
+.vscode/
+.fleet/
+*.swp
+*~
+
+# --- OS ----------------------------------------------------------------------
+.DS_Store
+Thumbs.db

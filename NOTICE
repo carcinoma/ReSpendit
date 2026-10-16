@@ -1,0 +1,12 @@
+ReSpendit
+Copyright 2026 The ReSpendit authors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The logo (docs/logo.svg and the app's icon and logo resources) is licensed under the
+Apache License, Version 2.0 as well. As stated in section 6 of the license, it does not
+grant permission to use the trade names or trademarks shown in it, such as "spendit".
+
+This product depends on third-party libraries (AndroidX/Jetpack Compose, OkHttp,
+kotlinx.serialization, kotlinx.coroutines, Nimbus JOSE + JWT), which are also licensed
+under the Apache License, Version 2.0.

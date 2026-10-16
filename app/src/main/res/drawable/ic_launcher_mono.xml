@@ -1,0 +1,8 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Monochrome layer for Android 13+ themed icons: dot and mark only. -->
+    <group android:scaleX="1.66013" android:scaleY="1.66013" android:translateX="21.0000" android:translateY="20.8141">
+        <path android:pathData="M15.996000000000002,11.087 a3.86,3.86 0 1,0 7.72,0 a3.86,3.86 0 1,0 -7.72,0 Z" android:fillColor="#FF000000"/>
+        <path android:pathData="M30.2839 22.2774L22.5695 30.0361C21.8028 30.8072 20.7933 31.1845 19.7866 31.1706C18.8516 31.1567 17.9194 30.8017 17.1912 30.1082L17.1885 30.1054C17.1664 30.0832 17.1471 30.061 17.1278 30.0388L9.4134 22.2774C7.77233 20.7656 7.77233 18.3107 9.27549 16.7989C10.0285 16.0416 11.0131 15.6644 12.0005 15.6644C12.9879 15.6644 13.9725 16.0416 14.7255 16.7989L19.7811 21.8835L24.8395 16.7989C26.3426 15.2871 28.7835 15.2871 30.2867 16.7989C31.0397 17.5562 31.4148 18.5465 31.4148 19.5368C31.4148 20.527 31.0369 21.5201 30.2839 22.2774Z" android:fillColor="#FF000000"/>
+    </group>
+</vector>
